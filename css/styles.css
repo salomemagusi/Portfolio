@@ -1,1 +1,6 @@
 body {background-image:url("../download.jpg");}
+#pg{
+  float: inherit;
+  font-size: 50px;
+  color: white;
+}
